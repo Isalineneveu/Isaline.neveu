@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|McLaren|Nanum+Gothic:400,700,800|Viga|ZCOOL+XiaoWei&display=swap');
+
+h2 {font-family: 'Abril Fatface', cursive;
+font-size:100px;
+color: #2D5E49;}
+
+body {font-family: 'Nanum Gothic', sans-serif;}
+
+
+
+
+#fable01 h3 {
+  font-family: 'McLaren', cursive;
+  font-size: 40px;
+  color: #D95E32
+}
+
+
+
+
+
+#fable02 h3 {
+font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 40px;
+  color: white;
+}
+body #fable02 {color:white;}
+
+
+
+
+#fable03 h3 {
+  font-family: 'Viga', sans-serif;
+  font-size: 50px;
+  color: 
+}
+
+ body #fable03 {color:white;}

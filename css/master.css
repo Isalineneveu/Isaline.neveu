@@ -1,0 +1,91 @@
+
+body { flex-wrap: wrap;
+background: url('images/texture.jpg');
+background-attachment: fixed;}
+
+
+.titre h1 { bottom right;
+background-size: cover;
+max-width: 600px;
+min-width: 100px;
+text-indent: -300px;
+height:300px;
+width:999px;
+margin-top: 180PX;
+margin-bottom: 300px;
+}
+
+#top .titre{
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+h2 {text-indent: -850px;
+margin-top: 280px;
+}
+
+ .morale {
+  font-weight: bold;
+}
+
+#fable01 {background:url('images/renard.jpg')no-repeat center;
+background-size: cover 100%;
+background-position: right;
+max-width:100%;
+min-width: 100px;
+padding: 130px;
+padding-bottom: 60px;
+}
+
+#fable01 .text-content {
+  text-align: left;
+  align-content:flex-start;
+  max-width: 300px;
+}
+
+#fable01 h3 {text-align: left;
+border-bottom: 3px solid #D95E32;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+
+
+
+#fable02 {padding:400px;
+background:url('images/chien.jpg')no-repeat center;
+background-size: cover;
+background-attachment: fixed;}
+
+#fable02 .texte2 { text-align: justify;
+max-width: 300px;
+text-align: center;
+}
+
+#fable02 h3 {
+  border-left: solid 5px;
+}
+
+
+#fable03 {padding-top: 10px;
+  padding-bottom: 40px;
+background:url('images/frog3.jpg')no-repeat center;
+max-width: 100%;}
+
+#fable03 .text3 { text-align: center;
+
+  display: flex;
+bottom: center;
+margin-top: 600px;
+max-width: 700px;
+margin-left: 600px;
+}
+
+#fable03 h3 { text-align: center;
+border-top:5px solid white;
+border-bottom: 5px solid white;
+padding-bottom: 5px;
+padding-top: 5px;
+margin-top: 100px;
+}
